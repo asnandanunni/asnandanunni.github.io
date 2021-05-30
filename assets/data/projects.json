@@ -1,0 +1,77 @@
+[
+    {
+        "name": "Nano",
+        "tech": ["Python", "Gunicorn"],
+        "summary": "A small web framework using gunicorn",
+        "description": "A long description",
+        "isCompleted": false,
+        "links": [
+            {
+                "codeRef": "https://github.com/Nandan-unni/Nano",
+                "codeTag": "Nano Source Code",
+                "liveRef": "https://pypi.org/project/nanoAPI/",
+                "liveTag": "Nano PIP Page"
+            }
+        ],
+        "images": [
+            {
+                "src": "image.png",
+                "caption": "Screen Shot 1"
+            },
+            {
+                "src": "image.png",
+                "caption": "Screen Shot 2"
+            }
+        ]
+    },
+    {
+        "name": "Twitter Clone",
+        "tech": ["MongoDB", "Express", "React", "Nodejs", "Firebase"],
+        "summary": "A full stack clone of Twitter using MERN Stack",
+        "description": "A long description",
+        "isCompleted": false,
+        "links": [
+            {
+                "codeRef": "https://github.com/Nandan-unni/Nano",
+                "codeTag": "Nano Source Code",
+                "liveRef": "https://pypi.org/project/nanoAPI/",
+                "liveTag": "Nano PIP Page"
+            }
+        ],
+        "images": [
+            {
+                "src": "image.png",
+                "caption": "Screen Shot 1"
+            },
+            {
+                "src": "image.png",
+                "caption": "Screen Shot 2"
+            }
+        ]
+    },
+    {
+        "name": "Instagram API Clone",
+        "tech": ["Django", "PostgreSQL", "Django REST Framework"],
+        "summary": "A clone of Instagram API",
+        "description": "A long description",
+        "isCompleted": false,
+        "links": [
+            {
+                "codeRef": "https://github.com/Nandan-unni/Nano",
+                "codeTag": "Nano Source Code",
+                "liveRef": "https://pypi.org/project/nanoAPI/",
+                "liveTag": "Nano PIP Page"
+            }
+        ],
+        "images": [
+            {
+                "src": "image.png",
+                "caption": "Screen Shot 1"
+            },
+            {
+                "src": "image.png",
+                "caption": "Screen Shot 2"
+            }
+        ]
+    }
+]
